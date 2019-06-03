@@ -1,0 +1,22 @@
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\bin\Debug\BLL.dll
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\bin\Debug\BLL.pdb
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\bin\Debug\DAL.dll
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\bin\Debug\Entity.dll
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\bin\Debug\Tool.dll
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\bin\Debug\Tool.pdb
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\bin\Debug\Entity.pdb
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\bin\Debug\DAL.pdb
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\obj\Debug\BLL.dll
+F:\DotNet Development\在线考试系统\TestOnLine\BLL\obj\Debug\BLL.pdb
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\bin\Debug\BLL.dll
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\bin\Debug\BLL.pdb
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\bin\Debug\DAL.dll
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\bin\Debug\Entity.dll
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\bin\Debug\Tool.dll
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\bin\Debug\Entity.pdb
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\bin\Debug\Tool.pdb
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\bin\Debug\DAL.pdb
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\obj\Debug\BLL.dll
+D:\temp\testOnline\1956-1-TestOnLine_v1.0\BLL\obj\Debug\BLL.pdb
